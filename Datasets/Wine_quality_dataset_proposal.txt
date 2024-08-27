@@ -1,0 +1,20 @@
+Attached here are two datasets for two types of wine: red and white. The data primarily covers the chemical properties of both types,
+including the amounts of sugar and alcohol they contain, and how these factors affect the quality of the wine.
+ 
+I find this data very useful for my project because it will enable me to apply prediction models to forecast the quality of the wine.
+
+I have also merged the two datasets into a single dataset called Wine_Quality_Dataset
+and created a new column to indicate the type of wine, whether red or white.
+This will allow me to apply classification models to distinguish between the two types.
+
+
+This dataset does not have any missing values, but it does contain some duplicates, so it requires data cleaning.
+
+ 
+The dataset consists of:
+
+6,497 rows
+13 columns 
+
+the source of these datasets is :https://archive.ics.uci.edu/dataset/186/wine+quality
+
